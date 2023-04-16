@@ -1,0 +1,78 @@
+p
+{
+    text-align: center;
+    size-adjust: 2px;
+}
+#top
+{
+    background-image: url("images/bannerBack.png");
+    padding-bottom: 10%;
+    color: white;
+}
+.form
+{
+    border-radius: 5rem;
+}
+.heading
+{
+    text-align: center;
+    padding-left: 3%;
+}
+.butn
+{
+    background-color: white;
+    border-radius: 5rem;
+    margin-left: 40%;
+    padding-left: 5%;
+    padding-right: 5%;    
+}
+.bannerP2
+{
+    position: absolute;
+    left:40%;
+    top: 105%;
+}
+.bannerL
+{
+    position: absolute;
+    left: 60%;
+    top: 98%;
+}
+
+#mid
+{
+    margin-top: 5%;
+}
+.aboutT
+{
+    position: relative;
+    left: 25%;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    
+}
+
+#mid-2
+{
+    margin-top: 2%;
+    padding-top: 2%;
+    background-color: black;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.mid2-aboutT
+{
+    filter: invert(5%);
+    -webkit-filter: invert(5%);   
+}
+.mid2-p
+{
+    color: white;
+    margin-left: 3%;
+}
+
+#mid-3
+{
+    margin-top: 3%;
+    text-align: center;
+}
